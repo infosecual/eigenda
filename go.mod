@@ -132,6 +132,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/status-im/keycard-go v0.2.0 // indirect
 	github.com/supranational/blst v0.3.11 // indirect
+	github.com/trailofbits/go-fuzz-utils v0.0.0-20230413173806-58c38daa3cb4 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/tyler-smith/go-bip39 v1.1.0 // indirect
 	github.com/ugorji/go/codec v1.2.11 // indirect
